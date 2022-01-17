@@ -36,7 +36,7 @@ Build instructions:
 
 -Run the game
 
-##Screenshots:
+Screenshots:
 ![image](https://user-images.githubusercontent.com/97887231/149769279-d73e7a99-2638-4c5b-89d9-a4d45214de11.png)
 ![image](https://user-images.githubusercontent.com/97887231/149769416-df1a95b4-9957-48fa-a2ea-b7cabfb9969f.png)
 ![image](https://user-images.githubusercontent.com/97887231/149769459-f62db196-6371-470d-ac43-ff2e37ed997a.png)
