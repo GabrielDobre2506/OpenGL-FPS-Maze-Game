@@ -1,7 +1,7 @@
 # OpenGL-FPS-Maze-Game
-This is the second homework assignment for the Computer Graphics Elements course (EGC) @ ACS, UPB 2022
-
+This is the second homework assignment for the Computer Graphics Elements course (EGC)
 It was made using the provided framework from the university.
+
 
 Features: 
   
