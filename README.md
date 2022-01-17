@@ -28,10 +28,14 @@ Game controls:
  -1/2 - rotates the character at 0/90 degrees
 
 Build instructions:
-  -In order to build and run the game, the graphics framework must be built using the instructions provided there first(which can be found here:https://github.com/UPB-Graphics/gfx-framework)
+
+-In order to build and run the game, the graphics framework must be built using the instructions provided there first(which can be found here:https://github.com/UPB-Graphics/gfx-framework)
+  
   -Then, in lab_m1 a new project can be added and named as Tema2
-  -Copy all the files from src/lab_m1/Tema2, lab_list.h and main.cpp in the new project.
-  -Run the game
+ 
+ -Copy all the files from src/lab_m1/Tema2, lab_list.h and main.cpp in the new project.
+ 
+ -Run the game
  
 Screenshots:
 ![image](https://user-images.githubusercontent.com/97887231/149769279-d73e7a99-2638-4c5b-89d9-a4d45214de11.png)
